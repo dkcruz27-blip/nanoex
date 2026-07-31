@@ -1,2 +1,2 @@
-# nanoex
-nanoex-pansonic
+# websiteminigamepanasonic-nanoex
+Internship-project-2
